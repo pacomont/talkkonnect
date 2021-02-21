@@ -39,7 +39,7 @@ import (
 	"net/http"
 
 	"github.com/jacobsa/go-serial/serial"
-	"github.com/talkkonnect/go-nmea"
+	"github.com/pacomont/go-nmea"
 )
 
 var (
